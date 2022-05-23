@@ -1,0 +1,52 @@
+body {
+    background-image: url("img/322663323747211.png");
+    font-family: Tahoma;
+    line-height: 1.2;
+    font-size: 18px;
+    padding: 20px;
+   
+}   
+
+.card {
+    width: 400px;
+    margin: 30px auto;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #e1a9fb;
+}
+
+.card-photo {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 50%;
+}
+
+.info {
+    font-size: 20px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 15px;
+    margin-left: 15px;
+}
+
+.line {
+    font-size: 13px;
+}
+
+.card-text {
+    font-size: 12px;
+    margin-left: 15px;
+}
+
+.uslugi {
+    font-style: oblique;
+}
+
+.contacts {
+    font-family: 'Times New Roman';
+}
